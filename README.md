@@ -1,7 +1,7 @@
-Projeto do Bootcamp de Desenvolvimento Web. 
+Project from the Web Development Bootcamp.
 
-Sessão 13: Javascript avançado e manipulação de DOM.
+Session 13: Advanced JavaScript and DOM Manipulation.
 
-Profª Dr. Angela Yu - London App Brewery
+Prof. Dr. Angela Yu - London App Brewery
 
 <img src="/images/image.png" alt="image"/>
